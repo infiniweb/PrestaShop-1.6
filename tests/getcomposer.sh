@@ -1,1 +1,1 @@
-curl -sS https://getcomposer.org/installer | php -- --filename=composer --version=1.10.19
+wget https://getcomposer.org/download/1.10.19/composer.phar
